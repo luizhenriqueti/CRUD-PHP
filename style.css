@@ -1,0 +1,13 @@
+.content{
+    width: 70%;
+    margin: 0 auto;
+}
+.novo {
+      
+    color: white; 
+    text-decoration: none; 
+    
+}
+.novo:hover{
+    --bs-link-hover-color: none;
+}
